@@ -64,7 +64,6 @@ body {
     text-transform: capitalize;
     font-size: 15px;
     margin-left: 20px;
-    color: brown;
   }
   .units {
     position: relative;
@@ -76,7 +75,4 @@ body {
   #far {
     text-decoration: none;
     font-weight: 450;
-  }
-  #date {
-    color: brown;
   }
