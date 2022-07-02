@@ -64,20 +64,7 @@ body {
     text-transform: capitalize;
     font-size: 15px;
     margin-left: 20px;
-  }
-  #celcius-link:hover,
-  #farenheit-link:hover {
-    color: grey;
-  }
-  #celcius-link,
-  #farenheit-link {
-    text-decoration: none;
-    font-size: 20px;
-    color: grey;
-  }
-  #line {
-    color: grey;
-    font-size: 20px;
+    color: brown;
   }
   .units {
     position: relative;

@@ -98,7 +98,6 @@ function showNewTemp(response) {
     "src",
     `http://openweathermap.org/img/wn/${response.data.weather[0].icon}@2x.png`
   );
-  celsiusTemp = response.data.main.temperature;
 }
 
 function showFahrenheit(event) {
@@ -120,6 +119,7 @@ function showCelcius(event) {
 
 let celsius = document.querySelector("#cel");
 celsius.addEventListener("click", showCelcius);
+
 
 document.querySelector("#current").addEventListener("click", () => {
   function currentPosition(position) {
