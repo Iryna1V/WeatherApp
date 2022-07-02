@@ -13,10 +13,11 @@ body {
   .city:hover {
     cursor: pointer;
   }
-  .temp-now {
+  .temperqture {
     font-size: 30px;
     color: black;
   }
+
   .info {
     padding-top: 32px;
   }
