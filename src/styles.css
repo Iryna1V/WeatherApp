@@ -14,7 +14,7 @@ body {
     cursor: pointer;
   }
   .temperqture {
-    font-size: 30px;
+    font-size: 40px;
     color: black;
   }
 
@@ -68,7 +68,7 @@ body {
   }
   .units {
     position: relative;
-    font-size: 16px;
+    font-size: 15px;
     top: -16px;
     left: -15px;
   }
