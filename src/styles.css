@@ -13,8 +13,8 @@ body {
   .city:hover {
     cursor: pointer;
   }
-  .temperature {
-    font-size: 40px;
+  .temp-now {
+    font-size: 35px;
     color: black;
   }
 
