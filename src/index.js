@@ -99,6 +99,7 @@ function showNewTemp(response) {
     `http://openweathermap.org/img/wn/${response.data.weather[0].icon}@2x.png`
   );
   getForecast(response.data.coord);
+  celsiusTemp = temperature;
 }
 
 function showFahrenheit(event) {
