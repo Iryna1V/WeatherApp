@@ -14,8 +14,8 @@ body {
     cursor: pointer;
   }
   .temp-now {
-    font-size: 45px;
-    color: black;
+    font-size: 50px;
+    color: #1b335f;
   }
 
   .info {
@@ -90,6 +90,6 @@ body {
   font-size: 14px;
 }
 #main-city {
-  font-size: 50px;
+  font-size: 35px;
   color: #1b335f;
 }
