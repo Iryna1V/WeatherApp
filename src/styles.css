@@ -77,3 +77,6 @@ body {
     text-decoration: none;
     font-weight: 450;
   }
+  .weather-forecast-temperature-min {
+    opacity: 0.5;
+  }
