@@ -80,3 +80,16 @@ body {
   .weather-forecast-temperature-min {
     opacity: 0.5;
   }
+  
+.weather-forecast-date {
+  font-size: 17px;
+  color: #1b335f;
+}
+
+.weather-forecast-temperature {
+  font-size: 14px;
+}
+#main-city {
+  font-size: 50px;
+  color: #1b335f;
+}
